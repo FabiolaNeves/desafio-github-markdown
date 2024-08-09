@@ -17,7 +17,7 @@
 -----
 ### OBJETIVO PROFISSIONAL
 
-Seguir na vida profissional com objetivo de crescer de forma produtiva e contribuir para o desenvolvimento e crescmento da organização como um todo. Almejando tornar-me uma profissional competente e respeitada.
+Seguir na vida profissional com objetivo de crescer de forma produtiva e contribuir para o desenvolvimento e crescimento da organização como um todo. Almejando tornar-me uma profissional competente e respeitada.
 
 
 ### EXPERIÊNCIA PROFISSIONAL
@@ -34,6 +34,10 @@ Cargo: Garçom - Abastecimento e reposição dos produtos, guarda de mercadoria,
 Cargo: Conferente logística - Responsável pelo setor Zona preciosa atuando na conferência da quantidade, qualidade e descrição dos produtos; endereçamento e movimentação do produto; abastecimento e armazenamento; contagem de estoque; vinculação de pickilist; pedidos de produtos, separação e escaneamento. Controle de material zide e telecarregamento de peças brutas via sistema SPPBOX, SERAV, SAP Logon Pad. Utilização do SAP Login Pad para expedição de peças.
 
 
+24/2024 - PREFEITURA MUNICIPAL DE PORTO REAL
+Cargo: Estagíario de TI - Suporte técnico aos usuários buscando solucionar problemas em geral de todos os componentes da rede corporativa da empresa como servidores, trabalho com impressoras, dentre outros.
+
+
 ### FORMAÇÃO ACADÊMICA
 
 Ensino Superior cursando - Sistema de Informação - 8° período) ESTÁCIO 
@@ -41,11 +45,11 @@ Ensino Superior cursando - Sistema de Informação - 8° período) ESTÁCIO
 
 ### CURSOS DE ESPECIALIZAÇÃO E APERFEIÇOAMENTO
 
-Curso de Informática Básica – SAYS-Resende
- Inglês Básico – FAETEC
-Macros VBA para Excel Completo – Udemy – Cursando
-Curso de Excel Avançado – Certificado Cursos Online – Cursando
-Java completo 2023 programação orientada a objetos + projetos – Udemy – Cursando 
+| CURSO   | CERTIFICADOS|
+| ------  | ----------  |
+| Macros VBA para Excel Completo | Cursando |
+| Excel Avançado | Cursando |
+| Java completo 2023 programação orientada a objetos + projetos | Cursando |
 
 ### HABILIDADES ESPECÍFICAS
 

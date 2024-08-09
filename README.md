@@ -1,10 +1,9 @@
 # desafio-github-markdown
 
-### Criando um curriculo em linguagem Markdown
+### 
 
 # <Center> FABÍOLA **FRANCISCO NEVES** </center>
 <div align="center">
-
 😄 Casada, Brasileira, 28 
 🏠 Rua dos Tucanos s/n – Bella Vista – Porto Real· 
 📱[Contato](2499906-9273)
@@ -34,7 +33,7 @@ Cargo: Conferente logística - Responsável pelo setor Zona preciosa atuando na 
 
 
 - 24/2024 - PREFEITURA MUNICIPAL DE PORTO REAL
-Cargo: Estagíario de TI - Suporte técnico aos usuários buscando solucionar problemas em geral de todos os componentes da rede corporativa da empresa como servidores, trabalho com impressoras, dentre outros.
+Cargo: Estagiário de TI - Suporte técnico aos usuários buscando solucionar problemas em geral de todos os componentes da rede corporativa da empresa como servidores, trabalho com impressoras, dentre outros.
 
 
 #### FORMAÇÃO ACADÊMICA

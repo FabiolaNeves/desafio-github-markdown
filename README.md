@@ -3,7 +3,6 @@
 ### Criando um curriculo em linguagem Markdown
 
 # <Center> FABÍOLA **FRANCISCO NEVES** </center>
-
 <div align="center">
 
 😄 Casada, Brasileira, 28 
